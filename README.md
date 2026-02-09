@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⭑ <i> Hi there! Welcome </i> ⭑
+  <i> Hey there! </i>
 </h1>
 
 <h2> <i> ― About Me </i> </h2>

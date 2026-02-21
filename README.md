@@ -9,6 +9,6 @@ I'm a 2nd-year Computer Engineering student. Currently focusing on Data Science,
 
 <h2> <i> ― Languages and Tools </i> </h2>
 <p >
-  <img src= "https://go-skill-icons.vercel.app/api/icons?i=c,html,css,python,sqlserver,mysql,numpy,pandas,matplotlib,tensorflow" />
+  <img src= "https://go-skill-icons.vercel.app/api/icons?i=c,html,css,python,sqlserver,mysql,numpy,pandas,matplotlib" />
 </p>
 

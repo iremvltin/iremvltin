@@ -1,9 +1,5 @@
 <h3 align="center"> · · ─ ·☽𖤓☾· ─ · · </h3>
 
-<h1 align="center"> 
-  <i>Hi there, </i> 
-</h1>
-
 <h2> <i> ― About Me </i> </h2>
 <p>
 3rd-year Computer Engineering student focused on AI and Data Science. Currently working on machine learning and RAG system projects. 
